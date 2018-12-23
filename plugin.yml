@@ -1,0 +1,7 @@
+name: Rush
+author: Neferett
+version: 1.0.1
+main: net.neferett.linaris.rush.RushPlugin
+commands:
+  rush:
+    permission: rush.admin
